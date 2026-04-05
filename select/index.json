@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "quiet room / 有機酸 - むﾄ (cover)",
+  "base_artist": "むﾄ / Muto",
+  "createdAt": "2026-04-05T05:34:53.524149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Quiet Room",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/01_The_Quiet_Room_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Quiet Room",
+      "artist": "Alice Coooer",
+      "has_synced": true,
+      "path": "select/02_The_Quiet_Room_Alice_Coooer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "quiet room",
+      "artist": "Ewe",
+      "has_synced": true,
+      "path": "select/03_quiet_room_Ewe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "quiet room",
+      "artist": "有機酸 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_quiet_room_有機酸_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "quiet room",
+      "artist": "有機酸",
+      "has_synced": true,
+      "path": "select/05_quiet_room_有機酸.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Quiet Room",
+      "artist": "Harry Belafonte",
+      "has_synced": true,
+      "path": "select/06_Quiet_Room_Harry_Belafonte.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Quiet Room",
+      "artist": "To/Die/For",
+      "has_synced": true,
+      "path": "select/07_The_Quiet_Room_To_Die_For.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Quiet Room",
+      "artist": "L’Orange",
+      "has_synced": false,
+      "path": "select/08_The_Quiet_Room_L’Orange.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Quiet Room",
+      "artist": "Alice Cooper",
+      "has_synced": false,
+      "path": "select/09_The_Quiet_Room_Alice_Cooper.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Quiet Room",
+      "artist": "Arron Rebustes",
+      "has_synced": true,
+      "path": "select/10_Quiet_Room_Arron_Rebustes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sad News in a Quiet Room",
+      "artist": "Keyes feat. Vic Fuentes",
+      "has_synced": true,
+      "path": "select/11_Sad_News_in_a_Quiet_Room_Keyes_feat._Vic_Fuentes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sad News in a Quiet Room (feat. Vic Fuentes)",
+      "artist": "Keyes",
+      "has_synced": true,
+      "path": "select/12_Sad_News_in_a_Quiet_Room_(feat._Vic_Fuentes)_Keyes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Terra (Prefuse 73 '3 Mellotrons In A Quiet Room' Version)",
+      "artist": "Caetano Veloso",
+      "has_synced": true,
+      "path": "select/13_Terra_(Prefuse_73_'3_Mellotrons_In_A_Quiet_Room'_Version)_Caetano_Veloso.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Light in a Quiet Room",
+      "artist": "Ride",
+      "has_synced": true,
+      "path": "select/14_Light_in_a_Quiet_Room_Ride.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "quiet room (cover)",
+      "artist": "むト",
+      "has_synced": false,
+      "path": "select/pl_01_quiet_room_(cover)_むト.txt"
+    }
+  ]
+}
